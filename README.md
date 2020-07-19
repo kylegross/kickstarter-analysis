@@ -11,8 +11,9 @@ An analysis of Kickstarter campaign data to help guide Louise with best practice
 ---
 ## Figure 3:
 ![M1__Project_Outcomes_by_Parent_Category-03](path/to/M1__Project_Outcomes_by_Parent_Category-03.png)
-### *Figure 3 proves that overall, there have been more successful theatre campaigns than those that have failed. That said, there is a notable decline of this type of campaign over the last few years.
+### *Figure 3 proves that overall, there have been more successful theatre campaigns than those that have failed. That said, there is a notable decline of this type of campaign over the last few years.*
 ---
 ---
 ---
 ### *Kyle Gross, July 2020*
+
