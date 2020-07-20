@@ -11,13 +11,13 @@ In addition, none of the columns are directly defined, which may lead to some co
 Two conclusions that can be drawn about the theater outcomes is that over the last few years, the number of theater campaigns has decreased dramatically (Figure 1). That said, there is a noticeable spike in campaigns in the spring and summer months of the year. 
 ---
 Figure 1:
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
 ### *Figure 1 proves that theatre campaigns are the most popular campaign type in the US.*
 ---
 Based on goals, the analysis proved that many of the campaigns that had greater goal amounts failed. Those with smaller goals proved to be more successful campaigns (Figure 2).
 ---
 Figure 2:
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
 ### *Figure 2 shows that, within the category of theatre campaigns, plays are the most popular type in the US.*
 ---
 There are a few limitations to this dataset, most of which surround the conclusion that there just isn't enough data available. Examples include lower-level location data (city, state, zip), campaign personnell data (campaign manager, contact information), and expense details. Because of these limitations on available data, our analysis is extremely high level and does not have the flexibility to propose scheduling solutions based on available resources.
