@@ -3,11 +3,11 @@
 ## Project Overview
 An analysis of Kickstarter campaign data to help guide Louise make informed decisions and follow best practices during campaign preparations.
 ---
-### Analysis + Challenges
+## Analysis + Challenges
 This analysis did not present any challenges. Possible challenges I did take note of in the data was not referenced in this exercise. For example, there are special characters and additional spaces in both the "name" and "blurb" columns of the original data. 
 In addition, none of the columns are directly defined, which may lead to some confusion and misinterpretation of the dataset. Although not a dependent variable in this analysis, the "spotlight" and "staff pick" columns contain true/false (or yes/no) data that is not translated. Although not key to Louise's analysis outcomes, it is important for analysts to understand every aspect of the original data.
 ---
-### Results
+## Results
 Two conclusions that can be drawn about the theater outcomes is that over the last few years, the number of theater campaigns has decreased dramatically (Figure 1). That said, there is a noticeable spike in campaigns in the spring and summer months of the year. 
 ---
 Figure 1:
